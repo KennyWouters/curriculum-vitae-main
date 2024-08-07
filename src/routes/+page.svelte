@@ -1,7 +1,7 @@
 <script>
 	import {navbarStore} from './store.js';
 	import {onMount} from 'svelte';
-	import profile from '$lib/images/Profile.png';
+	// import profile from '$lib/images/Profile.png';
 	import {tick} from 'svelte';
 	import {goto} from '$app/navigation';
 
