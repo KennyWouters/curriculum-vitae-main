@@ -115,10 +115,10 @@
 		},
 
 		{
-			date: 'Sep 2013 - Jun 2015',
-			title: 'Graphic industries technician',
-			company: "IATA",
-			location: "Namur",
+			date: 'Sep 2007 - Jun 2008',
+			title: 'Photography',
+			company: "Inraci",
+			location: "Brussels",
 			icon:"fa-solid fa-print",
 			responsibilities: [
 				"Technical drawing",
