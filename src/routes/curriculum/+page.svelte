@@ -85,7 +85,7 @@
 		},
 
 		{
-			date: 'Dec 2022 - Jun 2023',
+			date: 'Jul 2023 - Actual',
 			title: 'Python Developer',
 			company: "The App Brewery",
 			location: "London",
@@ -99,18 +99,14 @@
 		},
 
 		{
-			date: 'Sep 2017 - Jun 2018',
-			title: 'Assistant to the prevention and security professions',
-			company: "Namur Technical Institute",
-			location: "Namur",
+			date: 'Jan 2010 - Feb 2010',
+			title: 'Cisco ITEssentials',
+			company: "Technifutur",
+			location: "Ciney",
 			icon:"fa-solid fa-eye",
 			responsibilities: [
-				"Conflict resolution and prevention",
-				"First aid",
-				"Fire safety",
-				"Security techniques",
-				"Legal framework",
-				"Self-defense techniques"
+				"",
+
 			]
 		},
 
@@ -123,7 +119,6 @@
 			responsibilities: [
 				"Technical drawing",
 				"Graphic design",
-				"Printing techniques",
 				"Computer graphics"
 			]
 		}
