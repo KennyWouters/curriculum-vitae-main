@@ -96,7 +96,7 @@
 <div class="bg-gray-900 px-6 pb-6 pt-24 sm:pb-8 sm:pt32 lg:px-8 animate-quickerFadeIn">
 	<div class="mx-auto max-w-2xl text-center">
 			<h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">Kenny Wouters</h2>
-			<p class="mt-6 text-lg leading-8 text-gray-300">Software Developer | Cloud Solution Architect | Godot/Unity Game Development Enthusiast </p>
+			<p class="mt-6 text-lg leading-8 text-gray-300">Software Developer | Cloud Solution Architect | Linux Practitioner | Godot/Unity Game Development Enthusiast </p>
 			<div style="display: flex; justify-content: center; flex-wrap: nowrap; letter-spacing: 0.5em" class="mt-20 text-lg leading-8 text-white">
 					{#each logoList as logo, index}
 							<i style="visibility: {logoList[index].visible ? 'visible' : 'hidden'}; font-size: calc(3vw + 10px);" class="{logo.class} {logo.big ? 'big-text' : 'normal-text'}"></i>
