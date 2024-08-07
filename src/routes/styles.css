@@ -1,0 +1,27 @@
+body {
+ background-color: #DFD0B8;
+}
+
+.normal-text {
+    color: white;
+    transition: color 0.1s, transform 0.5s;
+}
+
+.big-text {
+    color: chartreuse;
+    transition: color 0.1s, transform 0.5s;
+    transform: scale(1.75); /* 5xl is approximately 1.67 times larger than 3xl in Tailwind CSS */
+}
+
+.normal-button {
+    background-color: #4CAF50;
+    color: white;
+    transition: background-color 0.1s, transform 4s;
+}
+
+.big-button {
+    background-color: #4CAF50;
+    color: white;
+    transition: background-color 0.1s, transform 4s;
+    transform: scale(1.25); /* 5xl is approximately 1.67 times larger than 3xl in Tailwind CSS */
+}
