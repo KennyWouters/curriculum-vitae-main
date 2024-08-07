@@ -1,7 +1,7 @@
 <script>
 	import {navbarStore} from './store.js';
 	import {onMount} from 'svelte';
-	// import profile from '$lib/images/Profile.png';
+	import profile from '$lib/images/Profile.png';
 	import {tick} from 'svelte';
 	import {goto} from '$app/navigation';
 
@@ -119,7 +119,7 @@
 		<div class="-mt-8 w-full max-w-2xl xl:-mb-8 xl:w-96 xl:flex-none">
 			<div class="relative aspect-[2/1] h-full md:-mx-8 xl:mx-0 sm:aspect-1 md:aspect-[1] xl:aspect-[0.5]">
 <!--				<div class="relative aspect-[2/1] h-full md:-mx-8 xl:mx-0 xl:aspect-auto">-->
-				<img class="absolute inset-0 h-full w-full rounded-2xl bg-gray-800 object-contain sm:object-cover shadow-2xl" src="{profile}" alt="">
+<!--				<img class="absolute inset-0 h-full w-full rounded-2xl bg-gray-800 object-contain sm:object-cover shadow-2xl" src="{profile}" alt="">-->
 			</div>
 		</div>
 		<div class="w-full max-w-2xl xl:max-w-none xl:flex-auto xl:px-16 xl:py-24">
