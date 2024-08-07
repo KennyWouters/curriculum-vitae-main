@@ -56,19 +56,19 @@
 	let studies = [
 
 		{
-			date: 'May 2024 - Present',
-			title: '.NET 8 Microservices, DDD, CQRS, Vertical/Clean Architecture Specialist',
+			date: 'Aug 2024 - Present',
+			title: '.NET 8 Microservices, API, Clean Architecture',
 			company: "Udemy",
 			location: "Remote",
 			icon:"fa-solid fa-code",
 			responsibilities: [
-				"Building Vertical Slice / Clean Architecture Micro-services following DDD principles",
+				"Building Clean Architecture Micro-services/API following DDD principles",
 				"Mastering libraries / frameworks such as Carter, MediatR, Mapster, Masstransit, Fluent Validation, EFCore, Refit, Redis, gRPC, RabbitMQ, Yarp API Gateway",
 				"Specializing in Docker, Docker Compose for containerization"
 			]
 		},
 		{
-			date: 'Jul 2023 - Apr 2024',
+			date: 'Jun 2018 - Mar 2019 (Interrupted)',
 			title: 'Full Stack Web Developer',
 			company: "Technifutur",
 			location: "Seraing",
