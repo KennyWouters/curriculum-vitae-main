@@ -130,6 +130,11 @@
 
 	let tabs = [
 		{
+			title: 'Certifications',
+			icon: 'fa-regular fa-keyboard',
+			content: ''
+		},
+		{
 			title: 'Career',
 			icon: 'fa-solid fa-briefcase',
 			content: experiences
@@ -139,11 +144,7 @@
 			icon: 'fa-solid fa-graduation-cap',
 			content: studies
 		},
-		{
-			title: 'Typing',
-			icon: 'fa-regular fa-keyboard',
-			content: ''
-		}
+
 	]
 
 	const changeActiveTab = (index) => {
