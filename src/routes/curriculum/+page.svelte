@@ -130,7 +130,7 @@
 
 	let tabs = [
 		{
-			title: 'Career',
+			title: 'Certifications',
 			icon: 'fa-solid fa-briefcase',
 			content: experiences
 		},
