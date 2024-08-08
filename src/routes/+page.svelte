@@ -80,7 +80,7 @@
 		{class: "fa-solid fa-code", visible: false, big: false},
 		{class: "fa-solid fa-person-hiking", visible: false, big: false},
 		{class: "fa-solid fa-gamepad", visible: false, big: false},
-		{class: "fa-regular fa-keyboard", visible: false, big: false},
+		// {class: "fa-regular fa-keyboard", visible: false, big: false},
 		{class: "fa-solid fa-person-swimming", visible: false, big: false},
 		{class: "fa-solid fa-globe", visible: false, big: false},
 		{class: "fa-solid fa-person-running", visible: false, big: false},

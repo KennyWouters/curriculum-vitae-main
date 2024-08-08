@@ -135,6 +135,11 @@
 			content: experiences
 		},
 		{
+			title: 'Career',
+			icon: 'fa-solid fa-briefcase',
+			content: experiences
+		},
+		{
 			title: 'Studies',
 			icon: 'fa-solid fa-graduation-cap',
 			content: studies
