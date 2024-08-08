@@ -130,11 +130,6 @@
 
 	let tabs = [
 		{
-			title: 'Certifications',
-			icon: 'fa-solid fa-briefcase',
-			content: experiences
-		},
-		{
 			title: 'Career',
 			icon: 'fa-solid fa-briefcase',
 			content: experiences
